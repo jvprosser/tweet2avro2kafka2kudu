@@ -17,11 +17,11 @@ pp = pprint.PrettyPrinter(indent=4,width=80)
 
 
 #Variables that contains the user credentials to access Twitter API 
-consumer_key = '0SuvevTB3ZMG6u3oqffw'#eWkgf0izE2qtN8Ftk5yrVpaaI
-consumer_secret = 'jRBn9XI99X50GoiHyY7e4AHMPV5hrFrYWmcvAQpaHI'#BYYnkSEDx463mGzIxjSifxfXN6V1ggpfJaGBKlhRpUMuQ02lBX
+consumer_key = 'XXXXXXXXXXu3oqffw'#eWkgf0izE2qtN8Ftk5yrVpaaI
+consumer_secret = 'XXXXXXXXXX7e4AHMPV5hrFrYWmcvAQpaHI'#BYYnkSEDx463mGzIxjSifxfXN6V1ggpfJaGBKlhRpUMuQ02lBX
 
-access_token = '1424440200-vZluwSxtJizCP7XdoeyCD8j0dD1oUVPmbAKOGsy'
-access_token_secret = 'mw7X3xG7z6LXNo5DSWSErsOmjR3PNLdOCHakHOgHphg'
+access_token = '1XXXXXXXXXXXXXXXXXXXXXXXXVPmbAKOGsy'
+access_token_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXdOCHakHOgHphg'
 
 
 twitter_schema='''
